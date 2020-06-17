@@ -4,13 +4,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## My character traits
 
-* Curious
-* Funny
-* Open
-* Father
-* Loving beer
+- Curious
+- Funny
+- Open
+- Father
+- Loving beer
 
 As Grace Hopper said:
 
 > I’ve always been more interested
 > in the future than in the past.
+
+<img src="https://static.vectorcharacters.net/uploads/2012/12/Free_Man_Vector_Character_Preview.jpg"/>
