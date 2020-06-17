@@ -4,11 +4,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## My character traits
 
-- Curious
-- Funny
-- Open
-- Father
-- Loving beer
+* Curious
+* Funny
+* Open
+* Father
+* Loving beer
 
 As Grace Hopper said:
 
